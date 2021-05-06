@@ -1,5 +1,25 @@
-### Hi there 👋
-This is a test!!!!
+# Stephen Tamiesie (he/him)
+***
+Hello!  
+  
+I love to fix things - especially with code - and occasionally mid-century modern furniture.  I'm motivated to make meaningful social and environmental impacts using software development as a vehicle for change.  
+
+## Skills
+    
+    Languages: JavaScript, HTML, CSS, Node
+    Frameworks/Libraries: React, Bootstrap, Express
+    Databases: PostgreSQL
+    Tools: Postman, GitHub, pgAdmin, Heroku, Netlify
+    Dev Practices: TDD
+    Design: Photoshop, Lightroom  
+      
+      
+      
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stamiesie)](https://github.com/anuraghazra/github-readme-stats)  
+     
+     
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stamiesie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **stamiesie/stamiesie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
