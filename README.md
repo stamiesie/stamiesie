@@ -8,7 +8,7 @@ I love to fix things - especially with code - and occasionally mid-century moder
     Languages: JavaScript, HTML, CSS, Node
     Frameworks/Libraries: React, Bootstrap, Express
     Databases: PostgreSQL
-    Tools: Postman, GitHub, pgAdmin, Heroku, Netlify
+    Tools: Postman, GitHub, pgAdmin
     Dev Practices: TDD
     Design: Photoshop, Lightroom  
       
