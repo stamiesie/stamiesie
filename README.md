@@ -5,8 +5,8 @@ I love to fix things - especially with code - and occasionally mid-century moder
 
 ## Skills
     
-    Languages: JavaScript, HTML, CSS, Node
-    Frameworks/Libraries: React, Bootstrap, Express
+    Languages: JavaScript, HTML, CSS
+    Frameworks/Libraries: React, Express, Node.js, Discord.js
     Databases: PostgreSQL
     Tools: Postman, GitHub, pgAdmin
     Dev Practices: TDD
