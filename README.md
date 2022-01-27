@@ -6,9 +6,9 @@ I love making things better - especially with code - and occasionally mid-centur
 ## Skills
     
     Languages: JavaScript, HTML, CSS
-    Frameworks/Libraries: React, Express, Node.js, Discord.js
+    Frameworks/Libraries: React, Express, Node.js, REST API, Gatsby, Discord.js
     Databases: PostgreSQL
-    Tools: Postman, GitHub, pgAdmin
+    Tools: AWS, GitHub, Postman, Netlify, Heroku, pgAdmin, NPM
     Dev Practices: TDD
     Design: Photoshop, Lightroom  
       
