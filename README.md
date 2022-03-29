@@ -5,7 +5,7 @@
 
 Hello!  
   
-I love making things better - especially with code - and occasionally mid-century modern furniture restoration.  I'm motivated to making meaningful social and environmental impacts using software development as a vehicle for change. 
+I love making things better - especially with code - and occasionally restoring vintage furniture.  I'm motivated to making meaningful social and environmental impacts using software development as a vehicle for change. 
 
 ## Skills
     
